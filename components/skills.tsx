@@ -49,9 +49,9 @@ export default function Skills() {
       items: ["Castellano", "Catalán", "Inglés"],
     },
     {
-      name: "Titulaciones",
+      name: "Certificados",
       icon: <Zap className="h-6 w-6" />,
-      items: ["Web Vitals", "Lazy Loading", "Code Splitting", "Bundle Optimization", "Caching"],
+      items: ["Administración de sistemas operativos Linux", "Administración de windows 10", "Conceptos fundamentales SQL Oracle 11g", "Java SE Fundamentals", "Programación PLSQL"],
     },
   ]
 
