@@ -41,8 +41,8 @@ export default function Contact() {
             <div className="space-y-6">
               <h3 className="text-2xl font-bold">¡Hablemos!</h3>
               <p className="text-zinc-600 dark:text-zinc-400">
-                ¿Tienes un proyecto en mente o simplemente quieres saludar? Estoy disponible para colaboraciones,
-                oportunidades laborales o simplemente para charlar sobre tecnología.
+                ¿Tienes un proyecto en mente? Estoy disponible para colaboraciones y/o
+                oportunidades laborales.
               </p>
               <div className="space-y-4 pt-4">
                 <div className="flex items-center gap-4">
@@ -50,10 +50,10 @@ export default function Contact() {
                     <Mail className="h-5 w-5" />
                   </div>
                   <a
-                    href="mailto:tu@email.com"
+                    href="mailto:arisoler97@gmail.com"
                     className="text-zinc-600 dark:text-zinc-400 hover:text-black dark:hover:text-white transition-colors"
                   >
-                    tu@email.com
+                    arisoler97@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-4">
@@ -61,12 +61,12 @@ export default function Contact() {
                     <Github className="h-5 w-5" />
                   </div>
                   <a
-                    href="https://github.com/tuusuario"
+                    href="https://github.com/Ariadnasolber"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-zinc-600 dark:text-zinc-400 hover:text-black dark:hover:text-white transition-colors"
                   >
-                    github.com/tuusuario
+                    https://github.com/Ariadnasolber
                   </a>
                 </div>
                 <div className="flex items-center gap-4">
@@ -74,12 +74,12 @@ export default function Contact() {
                     <Linkedin className="h-5 w-5" />
                   </div>
                   <a
-                    href="https://linkedin.com/in/tuusuario"
+                    href="https://linkedin.com/in/ariadnasolber"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-zinc-600 dark:text-zinc-400 hover:text-black dark:hover:text-white transition-colors"
                   >
-                    linkedin.com/in/tuusuario
+                    linkedin.com/in/ariadnasolber
                   </a>
                 </div>
               </div>
