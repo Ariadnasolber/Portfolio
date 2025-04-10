@@ -42,7 +42,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-tr from-zinc-200 to-zinc-400 dark:from-zinc-700 dark:to-zinc-900 rounded-3xl rotate-3 scale-95 opacity-70"></div>
             <div className="relative h-full w-full rounded-3xl overflow-hidden border border-zinc-200 dark:border-zinc-800 apple-card">
               <Image
-                src="yo.png"
+                src="nexgg.png"
                 alt="Tu Nombre"
                 width={600}
                 height={600}
